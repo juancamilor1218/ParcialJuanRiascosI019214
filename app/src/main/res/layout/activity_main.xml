@@ -19,6 +19,8 @@
 
 </LinearLayout>
     <include layout="@layout/section2"/>
+    <include layout="@layout/section3"/>
+
 
 
 
